@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Mrinmoy Bhuyan 👋
 
-<!--
-**mrinmoy15/mrinmoy15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I'm currently focusing on new projects in AI and ML. Check out my latest repositories below!
 
-Here are some ideas to get you started:
+## 🚀 Latest Projects
+- [Project1](https://github.com/mrinmoy15/Project1) – Short description
+- [Project2](https://github.com/mrinmoy15/Project2) – Short description
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me
+- Email: mrinmoybhuyan007@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/mrinmoybhuyan/)
+
+Stay tuned for more updates!
