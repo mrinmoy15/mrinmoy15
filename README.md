@@ -12,6 +12,7 @@ I'm currently focusing on new projects in AI and ML. Check out my latest reposit
 - [NLP Specialization](https://github.com/mrinmoy15/NLP_Specialization) – This course is the foundational building block for Natural Language Processing offered by [Deeplearning.ai](https://www.deeplearning.ai/courses/natural-language-processing-specialization/) This specialization covers how to design NLP applications that perform question-answering and sentiment analysis, create tools to translate languages, and summarize text. These and other NLP applications are at the forefront of the AI-powered future.
 
 ## 🚀 ML/AI Engineering (Datacamp + Others)
+- [Containerization and Virtualization Concepts](https://github.com/mrinmoy15/datacamp_containarization_virtualization) contains materials on Docker and Kubernetes Engine. How those concepts are being applied in the AI/ML world.
 
 ## 📫 How to reach me
 - Email: mrinmoybhuyan007@gmail.com
