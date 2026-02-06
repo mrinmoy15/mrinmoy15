@@ -13,6 +13,7 @@ I'm currently focusing on new projects in AI and ML. Check out my latest reposit
 
 ## 🚀 ML/AI Engineering (Datacamp + Others)
 - [Containerization and Virtualization Concepts](https://github.com/mrinmoy15/datacamp_containarization_virtualization) contains materials on Docker and Kubernetes Engine. How those concepts are being applied in the AI/ML world.
+- [ML_OPS](https://github.com/mrinmoy15/datacamp_containarization_virtualization) contains materials on MLOPs such as CI-CD, mlflow, Github etc.
 
 ## 📫 How to reach me
 - Email: mrinmoybhuyan007@gmail.com
