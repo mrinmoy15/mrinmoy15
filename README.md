@@ -5,7 +5,7 @@ I'm currently focusing on new projects in AI and ML. Check out my latest reposit
 
 ## 🚀 Latest Projects
 - [Project1](https://github.com/mrinmoy15/Project1) – Short description
-- [Project2](https://github.com/mrinmoy15/Project2) – Short description
+- [End to End Regression Model Training with mlflow and AWS deployment with github action](https://github.com/mrinmoy15/End_to_End_MLflow) – This is a template project where an end to end ML pipeline is demonstrated with a flask app deployed in AWS EC2 machine using Docker. The main learning objective of this project is to learn in detail about various components involved in an end to end machine learning pipeline in production.
 
 ## 🚀 Foundational to Advanced Courses Completed (Related to AI/ML)
 - [Mathematical-Foundations-of-Generative-AI](https://github.com/mrinmoy15/LLM-Course-1-Mathematical-Foundations-of-Generative-AI) – This course teaches the Mathematical Foundation of Generative AI in depth. This course covers in details the concepts related to Generative Adversarial Networks(GAN), Variational Auto Encoders(VAE), Diffusion Models(DDPM), Auto Regressive Models(AR) - these are basically LLMs, State Space Model(SSM) - like s4, Mamba, Re-inforcement Learning based alignment - RLHF, DPO, PPO  
