@@ -5,14 +5,15 @@ I'm currently focusing on new projects in AI and ML. Check out my latest reposit
 
 ## 🚀 Latest Projects
 - [Project1](https://github.com/mrinmoy15/Project1) – Short description
+  
 - [End to End Regression Model Training with mlflow and AWS deployment with github action](https://github.com/mrinmoy15/End_to_End_MLflow) – This is a template project where an end to end ML pipeline is demonstrated with a flask app deployed in AWS EC2 machine using Docker. The main learning objective of this project is to learn in detail about various components involved in an end to end machine learning pipeline in production.
 
-## 🚀 Foundational to Advanced Courses Completed (Related to AI/ML)
-- [Mathematical-Foundations-of-Generative-AI](https://github.com/mrinmoy15/LLM-Course-1-Mathematical-Foundations-of-Generative-AI) – This course teaches the Mathematical Foundation of Generative AI in depth. This course covers in details the concepts related to Generative Adversarial Networks(GAN), Variational Auto Encoders(VAE), Diffusion Models(DDPM), Auto Regressive Models(AR) - these are basically LLMs, State Space Model(SSM) - like s4, Mamba, Re-inforcement Learning based alignment - RLHF, DPO, PPO  
+## 🚀 Foundational to Advanced Courses Completed (Related to AI/ML) 
 - [NLP Specialization](https://github.com/mrinmoy15/NLP_Specialization) – This course is the foundational building block for Natural Language Processing offered by [Deeplearning.ai](https://www.deeplearning.ai/courses/natural-language-processing-specialization/) This specialization covers how to design NLP applications that perform question-answering and sentiment analysis, create tools to translate languages, and summarize text. These and other NLP applications are at the forefront of the AI-powered future.
 
 ## 🚀 ML/AI Engineering (Datacamp + Others)
 - [Containerization and Virtualization Concepts](https://github.com/mrinmoy15/datacamp_containarization_virtualization) contains materials on Docker and Kubernetes Engine. How those concepts are being applied in the AI/ML world.
+  
 - [ML_OPS](https://github.com/mrinmoy15/MLOPS) contains materials on MLOPs such as CI-CD, mlflow, Github etc.
 
 ## 📫 How to reach me
