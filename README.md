@@ -4,9 +4,9 @@ Welcome to my GitHub profile!
 I'm currently focusing on new projects in AI and ML. Check out my latest repositories below!
 
 ## 🚀 Latest Projects
-- **[Project1]**(https://github.com/mrinmoy15/Project1) – Short description
+- [**Project1**](https://github.com/mrinmoy15/Project1) – Short description
   
-- **[End to End Regression Model Training with mlflow and AWS deployment with github action]**(https://github.com/mrinmoy15/End_to_End_MLflow) – This is a template project where an end to end ML pipeline is demonstrated with a flask app deployed in AWS EC2 machine using Docker. The main learning objective of this project is to learn in detail about various components involved in an end to end machine learning pipeline in production.
+- [End to End Regression Model Training with mlflow and AWS deployment with github action](https://github.com/mrinmoy15/End_to_End_MLflow) – This is a template project where an end to end ML pipeline is demonstrated with a flask app deployed in AWS EC2 machine using Docker. The main learning objective of this project is to learn in detail about various components involved in an end to end machine learning pipeline in production.
 
 ## 🚀 Foundational to Advanced Courses Completed (Related to AI/ML) 
 - **[NLP Specialization](https://github.com/mrinmoy15/NLP_Specialization)** – This course is the foundational building block for Natural Language Processing offered by [Deeplearning.ai](https://www.deeplearning.ai/courses/natural-language-processing-specialization/) This specialization covers how to design NLP applications that perform question-answering and sentiment analysis, create tools to translate languages, and summarize text. These and other NLP applications are at the forefront of the AI-powered future.
