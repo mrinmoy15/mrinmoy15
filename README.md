@@ -12,7 +12,9 @@ I'm currently focusing on new projects in AI and ML. Check out my latest reposit
 ## 🚀 Foundational to Advanced Courses Completed (Related to AI/ML) 
 - **[NLP Specialization](https://github.com/mrinmoy15/NLP_Specialization)** – This course is the foundational building block for Natural Language Processing offered by [Deeplearning.ai](https://www.deeplearning.ai/courses/natural-language-processing-specialization/) This specialization covers how to design NLP applications that perform question-answering and sentiment analysis, create tools to translate languages, and summarize text. These and other NLP applications are at the forefront of the AI-powered future.
 
-- **[MCP: From Basics to Advanced](https://github.com/mrinmoy15/MCP_Basics_to_Advanced)** – This course covers some of the best materials on MCP found on the internet. It goes from very fundamental concepts to a lot of advanced stuff that are used by the AI Engineers these days. Mastering MCP is a must skillset for becoming fluent in AI agents and agentic development. 
+- **[MCP: From Basics to Advanced](https://github.com/mrinmoy15/MCP_Basics_to_Advanced)** – This course covers some of the best materials on MCP found on the internet. It goes from very fundamental concepts to a lot of advanced stuff that are used by the AI Engineers these days. Mastering MCP is a must skillset for becoming fluent in AI agents and agentic development.
+
+- **[LangChain/LangGraph in Depth: Campus X](https://github.com/mrinmoy15/CampusX_Langchain_in_depth)** – This course covers the Langchain framework in Depth. Langchain is the most popular open source framework for developing applications powered by LLMs. Most companies in their AI workflows use Langchain, so it is one of the most important framework to master.
 
 ## 🚀 ML/AI Engineering (Datacamp + Others)
 - **[Containerization and Virtualization Concepts](https://github.com/mrinmoy15/datacamp_containarization_virtualization)** contains materials on Docker and Kubernetes Engine. How those concepts are being applied in the AI/ML world.
