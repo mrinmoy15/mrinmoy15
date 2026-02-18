@@ -4,7 +4,11 @@ Welcome to my GitHub profile!
 I'm currently focusing on new projects in AI and ML. Check out my latest repositories below!
 
 ## 🚀 Latest Projects
-- **[Project1](https://github.com/mrinmoy15/Project1)** – Short description
+- **[PR Agent Workflow MCP Server](https://github.com/mrinmoy15/Project1)** – An MCP server that demonstrates how to make Claude Code team-aware and workflow-intelligent by
+- Smart PR Management: Automatic PR template selection based on code changes using MCP Tools
+- CI/CD Monitoring: Track GitHub Actions with Cloudflare Tunnel and standardized Prompts
+- Team Communication: Slack notifications demonstrating all MCP primitives working together
+This projects demonstrates how custom mcp servers can be really powerfull tool to be integrated with an agent.
   
 - **[End to End Regression Model Training with mlflow and AWS deployment with github action](https://github.com/mrinmoy15/End_to_End_MLflow)** – This is a template project where an end to end ML pipeline is demonstrated with a flask app deployed in AWS EC2 machine using Docker. The main learning objective of this project is to learn in detail about various components involved in an end to end machine learning pipeline in production.
 
