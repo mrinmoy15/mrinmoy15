@@ -14,8 +14,10 @@ I'm currently focusing on new projects in AI and ML. Check out my latest reposit
 
 - **[MCP: From Basics to Advanced](https://github.com/mrinmoy15/MCP_Basics_to_Advanced)** – This course covers some of the best materials on MCP found on the internet. It goes from very fundamental concepts to a lot of advanced stuff that are used by the AI Engineers these days. Mastering MCP is a must skillset for becoming fluent in AI agents and agentic development.
 
-- **[LangChain/LangGraph in Depth: Campus X](https://github.com/mrinmoy15/CampusX_Langchain_in_depth)** – This course covers the Langchain framework in Depth. Langchain is the most popular open source framework for developing applications powered by LLMs. Most companies in their AI workflows use Langchain, so it is one of the most important framework to master.
+- **[LangChain in Depth: Campus X](https://github.com/mrinmoy15/CampusX_Langchain_in_depth)** – This course covers the Langchain framework in Depth. Langchain is the most popular open source framework for developing applications powered by LLMs. Most companies in their AI workflows use Langchain, so it is one of the most important framework to master.
 
+- **[LangGraph in Depth: Campus X](https://github.com/mrinmoy15/CampusX_Langchain_in_depth)** – This course covers the LangGraph framework in Depth. LangGraph is an agentic development framework provided by the LangChain team. This is one of the most famous framework for AI Agents Development and a must have skill in today's AI centric world.
+  
 ## 🚀 ML/AI Engineering (Datacamp + Others)
 - **[Containerization and Virtualization Concepts](https://github.com/mrinmoy15/datacamp_containarization_virtualization)** contains materials on Docker and Kubernetes Engine. How those concepts are being applied in the AI/ML world.
   
