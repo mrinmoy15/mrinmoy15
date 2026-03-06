@@ -4,6 +4,8 @@ Welcome to my GitHub profile!
 I'm currently focusing on new projects in AI and ML. Check out my latest repositories below!
 
 ## 🚀 Latest Projects
+- **[Lumen-An AI Powered chatbot](https://github.com/mrinmoy15/Lumen-AI_Powered_Assistant)** – This is my attempt to create an AI powered ChatBot with multiple utilities and tool access. I have created regular and mcp based tools for the chatbot as well. The frontend is a streamlit app with a production grade UI (for internal tools) and the backend is mostly supported by LangGraph. This project gives a flavor of how a real world LLM application is built.
+  
 - **[PR Agent Workflow MCP Server](https://github.com/mrinmoy15/Project1)** – An MCP server that demonstrates how to make Claude Code team-aware and workflow-intelligent by
   Smart PR Management, CI/CD Monitoring and Team Communications on Slack. This projects demonstrates how custom mcp servers can be really powerfull tool to be integrated with an agent.
   
