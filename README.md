@@ -24,6 +24,8 @@ I'm currently focusing on new projects in AI and ML. Check out my latest reposit
 
 - **[Advanced RAG Architectures](https://github.com/mrinmoy15/Advanced_RAG_Architectures.git)** - This course is a detailed course about different advanced RAG Architecture and compared them across different metrics and considerations for when to use which RAG. Cost vs Accuracy is the main optimization that needs to be done for choosing a particular RAG Architecture.
   
+- **[RAG Bootcamp](https://github.com/mrinmoy15/RAG_Bootcamp_Udemy)** - This is a fundamental course about creating RAG systems using LangGraph and LangChain frameworks. This covers all the detials that help you create production grade RAG system for your organizations.
+  
 ## 🚀 ML/AI Engineering (Datacamp + Others)
 - **[Containerization and Virtualization Concepts](https://github.com/mrinmoy15/datacamp_containarization_virtualization)** contains materials on Docker and Kubernetes Engine. How those concepts are being applied in the AI/ML world.
   
