@@ -21,6 +21,8 @@ I'm currently focusing on new projects in AI and ML. Check out my latest reposit
 - **[LangChain in Depth: Campus X](https://github.com/mrinmoy15/CampusX_Langchain_in_depth)** – This course covers the Langchain framework in Depth. Langchain is the most popular open source framework for developing applications powered by LLMs. Most companies in their AI workflows use Langchain, so it is one of the most important framework to master.
 
 - **[LangGraph in Depth: Campus X](https://github.com/mrinmoy15/CampusX_Langchain_in_depth)** – This course covers the LangGraph framework in Depth. LangGraph is an agentic development framework provided by the LangChain team. This is one of the most famous framework for AI Agents Development and a must have skill in today's AI centric world.
+
+- **[Advanced RAG Architectures](https://github.com/mrinmoy15/Advanced_RAG_Architectures.git)** - This course is a detailed course about different advanced RAG Architecture and compared them across different metrics and considerations for when to use which RAG. Cost vs Accuracy is the main optimization that needs to be done for choosing a particular RAG Architecture.
   
 ## 🚀 ML/AI Engineering (Datacamp + Others)
 - **[Containerization and Virtualization Concepts](https://github.com/mrinmoy15/datacamp_containarization_virtualization)** contains materials on Docker and Kubernetes Engine. How those concepts are being applied in the AI/ML world.
