@@ -8,9 +8,6 @@ I'm currently focusing on new projects in AI and ML. Check out my latest reposit
   
 - **[BlogForge-An AI Powered Blog Generator](https://github.com/mrinmoy15/BLOG_GENERATION_AGENT)** – This is a blog generator using AI model. The backend is created using LangGraph. Mostly it uses OpenAI gpt models but also for image generation it has the option to call Gemini models as well. The front end of the app is developed using typescript but mostly AI generated. My serious attempts are more focused on learning LangGraph flows and then create the APIs. Also through this projet I am trying to integrate containarization using docker and then deploying the app in Google Cloud. The README contains each and every details about how to run the app and deploy it in GCP infrastructure. Here is the app link hosted on gcp [url](https://norse-rampart-273715.web.app/)
   
-- **[PR Agent Workflow MCP Server](https://github.com/mrinmoy15/MCP_Project_PR_Agent_Workflow_Server)** – An MCP server that demonstrates how to make Claude Code team-aware and workflow-intelligent by
-  Smart PR Management, CI/CD Monitoring and Team Communications on Slack. This projects demonstrates how custom mcp servers can be really powerfull tool to be integrated with an agent.
-  
 - **[End to End Regression Model Training with mlflow and AWS deployment with github action](https://github.com/mrinmoy15/End_to_End_MLflow)** – This is a template project where an end to end ML pipeline is demonstrated with a flask app deployed in AWS EC2 machine using Docker. The main learning objective of this project is to learn in detail about various components involved in an end to end machine learning pipeline in production.
 
 ## 🚀 Foundational to Advanced Courses Completed (Related to AI/ML) 
