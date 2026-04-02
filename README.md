@@ -10,6 +10,8 @@ I'm currently focusing on new projects in AI and ML. Check out my latest reposit
   
 - **[End to End Regression Model Training with mlflow and AWS deployment with github action](https://github.com/mrinmoy15/End_to_End_MLflow)** – This is a template project where an end to end ML pipeline is demonstrated with a flask app deployed in AWS EC2 machine using Docker. The main learning objective of this project is to learn in detail about various components involved in an end to end machine learning pipeline in production.
 
+- **[RAG Document Search](https://github.com/mrinmoy15/RAG_Document_Search)** - This is the most basic RAG application built using streamlit for frontend and langgraph for the backend implementation. This is just to introduce the concept of Agentic RAG and how to build a very basic application around that. In future we will build a few more roboust and advanced applications in our Generative AI learning journey. README covers all the instructions about how to run this app locally. No cloud deployment is done for this application.
+
 ## 🚀 Foundational to Advanced Courses Completed (Related to AI/ML) 
 - **[NLP Specialization](https://github.com/mrinmoy15/NLP_Specialization)** – This course is the foundational building block for Natural Language Processing offered by [Deeplearning.ai](https://www.deeplearning.ai/courses/natural-language-processing-specialization/) This specialization covers how to design NLP applications that perform question-answering and sentiment analysis, create tools to translate languages, and summarize text. These and other NLP applications are at the forefront of the AI-powered future.
 
