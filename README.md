@@ -22,9 +22,11 @@ I'm currently focusing on new projects in AI and ML. Check out my latest reposit
 - **[Advanced RAG Architectures](https://github.com/mrinmoy15/Advanced_RAG_Architectures.git)** - This course is a detailed course about different advanced RAG Architecture and compared them across different metrics and considerations for when to use which RAG. Cost vs Accuracy is the main optimization that needs to be done for choosing a particular RAG Architecture.
   
 - **[RAG Bootcamp](https://github.com/mrinmoy15/RAG_Bootcamp_Udemy)** - This is a fundamental course about creating RAG systems using LangGraph and LangChain frameworks. This covers all the detials that help you create production grade RAG system for your organizations.
-  
+
+- **[Deep Learning in Depth](https://github.com/mrinmoy15/Deeplearning_in_depth.git)** – This course covers the foundational knowledge of Deep Learning in depth with detail Mathematical understanding of Deep Learning. The course contains materials on 1. Artificial Neural Networks (ANN), 2. Recurrant Neural Networks (RNN) with LSTM and GRU, 3. Sequence to Sequence Architectures like Transformers. Some reference materials on this are : [Campus X 100 days of Deeplearning](https://www.youtube.com/watch?v=2dH_qjc9mFg&list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn) and [Andrew NG's lectures](https://www.youtube.com/watch?v=S7oA5C43Rbc&t=20680s)
+    
 ## 🚀 ML/AI Engineering (Datacamp + Others)
-- **[Containerization and Virtualization Concepts](https://github.com/mrinmoy15/datacamp_containarization_virtualization)** contains materials on Docker and Kubernetes Engine. How those concepts are being applied in the AI/ML world.
+- **[Containerization and Virtualization Concepts](https://github.com/mrinmoy15/datacamp_containarization_virtualization)** contains materials on Docker and Kubernetes Engine. How those concepts are being applied in the AI/ML world. 
   
 - **[ML_OPS](https://github.com/mrinmoy15/MLOPS)** contains materials on MLOPs such as CI-CD, mlflow, Github etc.
 
