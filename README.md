@@ -1,7 +1,7 @@
 # Hi, I'm Mrinmoy Bhuyan 👋
 
 Welcome to my GitHub profile!  
-I'm currently focusing on new projects in AI and ML. Check out my latest repositories below!
+I'm currently focusing on new projects in AI and ML. Check out my latest repositories below! Also here is my complete [ai/ml learning tracker]( https://mrinmoy15.github.io/ai_learning_tracker/)
 
 ## 🚀 Latest Projects
 - **[Lumen-An AI Powered chatbot](https://github.com/mrinmoy15/Lumen-AI_Powered_Assistant)** – This is my attempt to create an AI powered ChatBot with multiple utilities and tool access. I have created regular and mcp based tools for the chatbot as well. The frontend is a streamlit app with a production grade UI (for internal tools) and the backend is mostly supported by LangGraph. This project gives a flavor of how a real world LLM application is built. This project is deployed in Google Cloud. The READEME contains each and every details about how to run the app and deploy it in GCP infrastructure. Here is the app link hosted on gcp [url](https://lumen-frontend-e5s2hl52sa-uc.a.run.app/)
